@@ -17,7 +17,7 @@ For emacs and cua it will probably look like this::
 
 And for vim keymap something like this::
 
-  V.mkStringBindingY V.normal ("<C-p>", fuzzyOpen, id)
+  V.mkStringBindingY V.Normal ("<C-p>", fuzzyOpen, id)
 
 Usage
 =====
